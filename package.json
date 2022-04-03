@@ -1,0 +1,8 @@
+{
+  "name": "js-coding-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cypherkunp/js-coding-interview.git",
+  "author": "Devvrat Shukla <devvratshukla@gmail.com>",
+  "license": "MIT"
+}
